@@ -1,5 +1,5 @@
 # Custom-Sequence-Detector
-# Sequence Detector in Verilog
+
 
 A basic parameterized sequence detector implemented using Verilog.
 
